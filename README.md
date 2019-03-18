@@ -1,4 +1,4 @@
-# demo190316
+# ADVANCE.AI190316
 
 ## Project setup
 ```
@@ -10,17 +10,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 手机号 11位数字
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+### 验证码 6位数字
